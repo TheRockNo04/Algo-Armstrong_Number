@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<conio.h>
+
 void main(){
  int d,sum,temp1,temp2,count=0,a,b;
   printf("Enter the number:- ");
